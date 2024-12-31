@@ -1,0 +1,3 @@
+D:/python/github/C++ leetcode/20241231_LettersTransform/cmake-build-debug/CMakeFiles/20241231.dir
+D:/python/github/C++ leetcode/20241231_LettersTransform/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/python/github/C++ leetcode/20241231_LettersTransform/cmake-build-debug/CMakeFiles/rebuild_cache.dir
