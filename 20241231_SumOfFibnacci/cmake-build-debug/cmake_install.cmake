@@ -1,8 +1,8 @@
-# Install script for directory: D:/python/github/C++ leetcode/Bisection
+# Install script for directory: D:/python/github/C++ leetcode/20241231_SumOfFibnacci
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Bisection")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/20241231_SumOfFibnacci")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "D:/python/github/C++ leetcode/Bisection/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "D:/python/github/C++ leetcode/20241231_SumOfFibnacci/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

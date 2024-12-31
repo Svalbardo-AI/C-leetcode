@@ -459,8 +459,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/python/github/C++ leetcode/Bisection/cmake-build-debug",
-		"source" : "D:/python/github/C++ leetcode/Bisection"
+		"build" : "D:/python/github/C++ leetcode/20241231_SumOfFibnacci/cmake-build-debug",
+		"source" : "D:/python/github/C++ leetcode/20241231_SumOfFibnacci"
 	},
 	"version" : 
 	{

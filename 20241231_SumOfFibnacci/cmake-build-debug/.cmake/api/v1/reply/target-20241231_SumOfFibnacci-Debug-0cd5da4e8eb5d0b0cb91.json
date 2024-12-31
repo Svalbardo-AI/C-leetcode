@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Bisection.exe"
+			"path" : "20241231_SumOfFibnacci.exe"
 		},
 		{
-			"path" : "Bisection.pdb"
+			"path" : "20241231_SumOfFibnacci.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "Bisection::@6890427a1f51a3e7e1df",
+	"id" : "20241231_SumOfFibnacci::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +76,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "Bisection",
-	"nameOnDisk" : "Bisection.exe",
+	"name" : "20241231_SumOfFibnacci",
+	"nameOnDisk" : "20241231_SumOfFibnacci.exe",
 	"paths" : 
 	{
 		"build" : ".",

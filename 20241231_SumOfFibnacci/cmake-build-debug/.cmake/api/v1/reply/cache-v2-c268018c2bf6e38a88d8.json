@@ -2,7 +2,7 @@
 	"entries" : 
 	[
 		{
-			"name" : "Bisection_BINARY_DIR",
+			"name" : "20241231_SumOfFibnacci_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -11,10 +11,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/python/github/C++ leetcode/Bisection/cmake-build-debug"
+			"value" : "D:/python/github/C++ leetcode/20241231_SumOfFibnacci/cmake-build-debug"
 		},
 		{
-			"name" : "Bisection_IS_TOP_LEVEL",
+			"name" : "20241231_SumOfFibnacci_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -26,7 +26,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Bisection_SOURCE_DIR",
+			"name" : "20241231_SumOfFibnacci_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/python/github/C++ leetcode/Bisection"
+			"value" : "D:/python/github/C++ leetcode/20241231_SumOfFibnacci"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/python/github/C++ leetcode/Bisection/cmake-build-debug"
+			"value" : "d:/python/github/C++ leetcode/20241231_SumOfFibnacci/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -467,7 +467,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/python/github/C++ leetcode/Bisection/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/python/github/C++ leetcode/20241231_SumOfFibnacci/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/python/github/C++ leetcode/Bisection"
+			"value" : "D:/python/github/C++ leetcode/20241231_SumOfFibnacci"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -551,7 +551,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Bisection"
+			"value" : "C:/Program Files (x86)/20241231_SumOfFibnacci"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -767,7 +767,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Bisection"
+			"value" : "20241231_SumOfFibnacci"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
