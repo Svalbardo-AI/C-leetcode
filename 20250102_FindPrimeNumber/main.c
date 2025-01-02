@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 
 void PrimeNumber(const int n) {
     if (n < 0) return;
@@ -17,13 +18,15 @@ void PrimeNumber(const int n) {
             if (i%j==0) {p=1;break;}
             j++;
         }
-        if (p==0) {numbers[i]=i;printf("%d\t",i);}
+        if (p==0) {numbers[i]=i;}
     }
     free(numbers);
 }
 
-int main(void) {
-    const int n = 1000;
+void main() {
+    clock_t begin = clock();
+    const int n = 10000;
     PrimeNumber(n);
-    return 0;
+    clock_t end = clock();
+    printf("Time taken by main: %f seconds\n", (double)(end - begin) / CLOCKS_PER_SEC);
 }
